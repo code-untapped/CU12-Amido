@@ -1,0 +1,80 @@
+{
+  "models": [
+    {
+      "id": "d3bd3936-80b1-4717-a6f8-6e4856220fb5",
+      "firstName": "Alica",
+      "lastName": "Coombe",
+      "dateOfBirth": "1980-08-18T00:00:00Z",
+      "email": "AlicaCoombe@armyspy.com",
+      "homePhone": "020 7551 3320",
+      "businessPhone": "",
+      "mobilePhone": "07778 588 5532",
+      "primaryTenancyId": "7af4e07c-023c-4f94-998f-168d4c75b093",
+      "primaryTenancy": {
+        "id": "7af4e07c-023c-4f94-998f-168d4c75b093",
+        "tenancyType": null,
+        "primaryPremisesId": null,
+        "primaryPremises": {
+          "id": "dd89cca9-1cd8-40c1-9a94-d7dc13720696",
+          "propertyAddress": {
+            "addressLine1": "100 Test Street",
+            "addressLine2": "",
+            "town": "",
+            "postcode": "SE1 7RG"
+          }
+        }
+      }
+    },
+    {
+      "id": "204b448a-67b6-4519-83af-895ac9fabba5",
+      "firstName": "Alice",
+      "lastName": "Conors",
+      "dateOfBirth": "1980-10-19T00:00:00Z",
+      "email": "AlicaConorstest@armyspy.com",
+      "homePhone": "020 7899 5566",
+      "businessPhone": "",
+      "mobilePhone": "07778 6456 6931",
+      "primaryTenancyId": "1bb142cf-88e2-4444-85f4-63ef56673712",
+      "primaryTenancy": {
+        "id": "1bb142cf-88e2-4444-85f4-63ef56673712",
+        "tenancyType": null,
+        "primaryPremisesId": null,
+        "primaryPremises": {
+          "id": "592e4f4b-f83e-45eb-a89b-21102a04cf4d",
+          "propertyAddress": {
+            "addressLine1": "100 Test Street",
+            "addressLine2": "Waterloo",
+            "town": "London",
+            "postcode": "SE1 7RG"
+          }
+        }
+      }
+    },
+    {
+      "id": "d3bd3936-80b1-4717-a6f8-6e4856331aa9",
+      "firstName": "Alina",
+      "lastName": "Coombe",
+      "dateOfBirth": "1980-09-18T00:00:00Z",
+      "email": "AlinaCoombe@armyspy.com",
+      "homePhone": "020 7551 3320",
+      "businessPhone": "07775 755 3320",
+      "mobilePhone": "07775 588 5632",
+      "primaryTenancyId": "605b5736-68d4-4e58-b158-c168ee4b60b8",
+      "primaryTenancy": {
+        "id": "605b5736-68d4-4e58-b158-c168ee4b60b8",
+        "tenancyType": null,
+        "primaryPremisesId": null,
+        "primaryPremises": {
+          "id": "dd89cca9-1cd8-40c1-9a94-d7dc13720696",
+          "propertyAddress": {
+            "addressLine1": "100 Test Street",
+            "addressLine2": "",
+            "town": "",
+            "postcode": "SE1 7RG"
+          }
+        }
+      }
+    }
+  ],
+  "totalCount": 3
+}

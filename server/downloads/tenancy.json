@@ -1,0 +1,10 @@
+{
+  "tenancyId": "7af4e07c-023c-4f94-998f-168d4c75b093",
+  "tenancyType": "TENANCY TYPE",
+  "primaryPremisesId": "dd89cca9-1cd8-40c1-9a94-d7dc13720696",
+  "paymentInfo": {
+    "paymentReference": "FH8392002844432",
+    "paymentMethod": "BACS",
+    "lastPaymentAmount": "100.20"
+  }
+}

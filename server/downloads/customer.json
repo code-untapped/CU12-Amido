@@ -1,0 +1,24 @@
+{
+  "id": "fe559c28-724b-4fca-a7b6-a5501bf2f93f",
+  "eTag": "\"0000c3b8-0000-1100-0000-5e1da2ac0000\"",
+  "primaryTenancyId": "7af4e07c-023c-4f94-998f-168d4c75b093",
+  "tenancyIds": [
+    "7af4e07c-023c-4f94-998f-168d4c75b093",
+    "605b5736-68d4-4e58-b158-c168ee4b60b8"
+  ],
+  "title": { "value": 5, "key": "MR", "displayName": "Mr", "legacyKeys": [] },
+  "firstName": "Thomas9",
+  "lastName": "Albright",
+  "dateOfBirth": "1947-06-28T00:00:00",
+  "languages": ["English", "Spanish"],
+  "email": "ThomasMAlbright@rhyta.com",
+  "homePhone": "070 1028 5760",
+  "businessPhone": "070 1028 5760",
+  "mobilePhone": "07756889630",
+  "address": {
+    "addressLine1": "37 Marcham Road",
+    "addressLine2": "Blencarn",
+    "town": "Forston",
+    "postcode": "DT2 1FW"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  { "displayName": "Lastname Asc", "sortableKey": "lastName" },
+  { "displayName": "Lastname Desc", "sortableKey": "lastName desc" },
+  {
+    "displayName": "Address asc",
+    "sortableKey": "primaryTenancy/primaryPremises/propertyAddress/addressLine1 asc"
+  },
+  {
+    "displayName": "Address desc",
+    "sortableKey": "primaryTenancy/primaryPremises/propertyAddress/addressLine1 desc"
+  }
+]
